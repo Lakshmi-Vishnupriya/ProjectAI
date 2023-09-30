@@ -1,4 +1,4 @@
-Earthquake prProblem Statement:
+Earthquake Problem Statement:
 
 Explore the key features of earthquake data and design an object for those features, such as date, time, latitude, longitude, depth, and magnitude. Before developing the prediction model, visualize the data on a world map to display a complete overview of where the earthquake frequency will be higher. Split the data into a training set and a test set for validation. Lastly, build a neural network to fit the data from the training set.
 
